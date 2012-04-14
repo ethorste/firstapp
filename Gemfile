@@ -24,7 +24,6 @@ gem 'jquery-rails'
 
 # For postgresql in heroku env
 group :production do
-  gem 'node.js'
   gem 'pg', '0.12.2'
 end
 
